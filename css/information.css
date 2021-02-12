@@ -1,0 +1,43 @@
+.title{
+    color: white;
+    font-family: 'Source Code Pro', monospace;
+    margin-left:auto;
+    margin-top:auto;
+    text-align: center;
+    position: relative;
+    top: 100px;
+    line-height: 0.2;
+}
+
+.title2 {
+    font-size: 170%;
+}
+
+.back-text {
+    font-family: "Source Code Pro", monospace;
+    margin-left: auto;
+    margin-top: auto;
+    color:seashell;
+}
+
+.back{
+    text-align: right;
+}
+
+.paragraph {
+    margin-left: auto;
+    margin-top: auto;
+    color:silver;
+    text-align: center;
+    position: relative;
+    top: 120px;
+}
+
+.text {
+    font-family: "Source Code Pro" ,monospace;
+}
+
+.chapters {
+    font-family: 'Source Code Pro', monospace;
+    font-size: 97%;
+}

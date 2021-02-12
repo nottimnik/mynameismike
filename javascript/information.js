@@ -1,0 +1,1 @@
+console.log('Here are no secrets, the puzzle is on the main page.')

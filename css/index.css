@@ -1,0 +1,31 @@
+.name{
+    font-family: 'Source Code Pro', monospace;
+    color: white;
+    margin-left:auto;
+    margin-top:auto;
+    text-align: center;
+}
+
+.description{
+    font-family: 'Source Code Pro', monospace;
+    color:white;
+    margin-left:auto;
+    margin-top:auto;
+    text-align: center;
+}
+
+.text {
+    line-height: 150%;
+    position: relative;
+    top: 200px;
+}
+
+.button {
+    font-family: "Source Code Pro", monospace;
+    color:lavender;
+    font-size: 90%;
+}
+
+.button-center {
+    text-align: right;
+}
